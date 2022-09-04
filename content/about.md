@@ -42,5 +42,5 @@ I also accept GPG encrypted emails -- use my public key: [D40F293BE111CA808A4195
 For anything about the various software projects I work on, check the README.md / CONTRIBUTING.md to see if there's anything there (e.g., a mailing list).
 If not feel free to email me, as described above.
 
-You can also contact me on twitter [@ragreener1](https://twitter.com/ragreener1).
+You can also contact me on twitter [@0x\_r0bert](https://twitter.com/0x_r0bert).
 
