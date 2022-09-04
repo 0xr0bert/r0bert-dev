@@ -1,10 +1,9 @@
 ---
-title: The state of R licensing is a complete mess
+title: Lots of R code is illegal
 author: Robert Greener
-date: 2022-08-31
+date: 2022-09-04
 description: "The R ecosystem has appeared to completely ignore free-software licensing"
 tags: ["licensing", "R"]
-draft: true
 ---
 
 **Disclaimer: I am not a lawyer, this is just my opinion as lay-person with experience with free-software.**
