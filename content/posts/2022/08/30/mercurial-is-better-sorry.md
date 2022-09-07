@@ -56,7 +56,6 @@ This just isn't possible in git.
 Mercurial also supposedly works better with windows, but I could care less.
 
 I'd genuinely like to use mercurial, but frankly, the world has just moved on 😔.
-I'm intending from now on to use mercurial (with hosting on [sourcehut](https://hg.sr.ht)) as it's just better.
 In the long-run, I'd quite like to use [pijul](https://pijul.org/) a distributed version control system based upon a theory of patches -- a modern-day DARCS.
 However, right now it's too early.
 Also, until there is the option to self-host repos with a web UI, I'm not going to consider it.
