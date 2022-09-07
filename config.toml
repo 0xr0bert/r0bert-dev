@@ -8,7 +8,7 @@ disqusShortname = 'r0bert-dev'
   comments = true
 [menu]
 [[menu.main]]
-  identifier = "hg"
-  name = "hg"
-  url = "https://hg.sr.ht/~ragreener1"
-  weight = 100
+  identifier = "git"
+  name = "git"
+  url = "https://git.sr.ht/~ragreener1"
+  weight = 10000000
